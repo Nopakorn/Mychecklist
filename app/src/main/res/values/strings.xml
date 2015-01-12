@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyChecklist</string>
+    <!--<string name="title_activity_main">Immersion test</string>-->
+    <!--<string name="hello_world">Hello world!</string>-->
+    <string name="message">Done</string>
+
+    <string name="count">0</string>
+    <string name="total">from 4 item</string>
+    <!--<string name="checked">MyChecklist</string>-->
+    <string name="tap_for_options">tap to continue</string>
+
+
+    <!-- test contextual voice commands-->
+    <string name="menu_next">Next</string>
+    <string name="menu_tap">Tap</string>
+
+
+
+    <string-array name ="checklist">
+        <item>Engine Oil</item>
+        <item>Break Pad</item>
+        <item>Head Lamp</item>
+        <item>Tail Lamp</item>
+    </string-array>
+
+</resources>
