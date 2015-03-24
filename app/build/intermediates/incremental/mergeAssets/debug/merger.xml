@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Guild\AndroidStudioProjects\MyChecklist\app\src\main\assets"><file name="databases/checklistDB.sqlite" path="C:\Users\Guild\AndroidStudioProjects\MyChecklist\app\src\main\assets\databases\checklistDB.sqlite"/></source></dataSet><dataSet config="debug"><source path="C:\Users\Guild\AndroidStudioProjects\MyChecklist\app\src\debug\assets"/></dataSet></merger>

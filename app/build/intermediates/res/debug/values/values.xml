@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Guild/AndroidStudioProjects/MyChecklist/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="checklist">
+        <item>Engine Oil</item>
+        <item>Break Pad</item>
+        <item>Head Lamp</item>
+        <item>Tail Lamp</item>
+    </string-array>
+    <!-- From: file:/C:/Users/Guild/AndroidStudioProjects/MyChecklist/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="card_margin">40px</dimen>
+    <dimen name="result_icon_margin_right">20px</dimen>
+    <dimen name="timer_margin_left">40px</dimen>
+    <dimen name="tip_margin_bottom">33px</dimen>
+    <!-- From: file:/C:/Users/Guild/AndroidStudioProjects/MyChecklist/app/src/main/res/values/integer.xml -->
+    <eat-comment/>
+    <integer name="slide_duration_ms">150</integer>
+    <!-- From: file:/C:/Users/Guild/AndroidStudioProjects/MyChecklist/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">MyChecklist</string>
+    <string name="count">0</string>
+    <string name="menu_next">Next</string>
+    <string name="menu_tap">Tap</string>
+    <string name="message">Done</string>
+    <string name="tap_for_options">tap to continue</string>
+    <string name="total">from 4 item</string>
+    <!-- From: file:/C:/Users/Guild/AndroidStudioProjects/MyChecklist/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppTheme" parent="android:Theme.Holo.Light"/>
+</resources>
